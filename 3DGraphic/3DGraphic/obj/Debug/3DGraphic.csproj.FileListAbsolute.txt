@@ -1,0 +1,15 @@
+H:\Programming\Csharp\2019\3DGraphic\3DGraphic\bin\Debug\3DGraphic.exe.config
+H:\Programming\Csharp\2019\3DGraphic\3DGraphic\bin\Debug\3DGraphic.exe
+H:\Programming\Csharp\2019\3DGraphic\3DGraphic\bin\Debug\3DGraphic.pdb
+H:\Programming\Csharp\2019\3DGraphic\3DGraphic\obj\Debug\3DGraphic.csprojAssemblyReference.cache
+H:\Programming\Csharp\2019\3DGraphic\3DGraphic\obj\Debug\3DGraphicView.g.cs
+H:\Programming\Csharp\2019\3DGraphic\3DGraphic\obj\Debug\App.g.cs
+H:\Programming\Csharp\2019\3DGraphic\3DGraphic\obj\Debug\3DGraphic_MarkupCompile.cache
+H:\Programming\Csharp\2019\3DGraphic\3DGraphic\obj\Debug\3DGraphic_MarkupCompile.lref
+H:\Programming\Csharp\2019\3DGraphic\3DGraphic\obj\Debug\3DGraphicView.baml
+H:\Programming\Csharp\2019\3DGraphic\3DGraphic\obj\Debug\3DGraphic.g.resources
+H:\Programming\Csharp\2019\3DGraphic\3DGraphic\obj\Debug\_3DGraphic.Properties.Resources.resources
+H:\Programming\Csharp\2019\3DGraphic\3DGraphic\obj\Debug\3DGraphic.csproj.GenerateResource.cache
+H:\Programming\Csharp\2019\3DGraphic\3DGraphic\obj\Debug\3DGraphic.csproj.CoreCompileInputs.cache
+H:\Programming\Csharp\2019\3DGraphic\3DGraphic\obj\Debug\3DGraphic.exe
+H:\Programming\Csharp\2019\3DGraphic\3DGraphic\obj\Debug\3DGraphic.pdb
